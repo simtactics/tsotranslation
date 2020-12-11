@@ -11,7 +11,7 @@ For languages with special characters such as æ, ø, å, or ä **please make su
 
 ## Technical details
 
-For technical details and future of the CST format, see Quick Fennec Software's [CST parser](https://github.com/quickfennec/QuickFennec.CST). The project is separate from SimTactics because the CST format is fairly general purpose in it's design, despite originating from The Sims Online.
+For technical details and future of the CST format, see Sixam's [CST parser](https://github.com/sixamsoft/Sixam.CST). The project is separate from SimTactics because the CST format is fairly general purpose in it's design, despite originating from The Sims Online.
 ## Disclaimer
 
 - This project is not affiliated with or endorsed by Electronic Arts or Maxis.
