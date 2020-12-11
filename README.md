@@ -9,6 +9,9 @@ You can find the files to translate in **Maxis\The Sims Online\TSOClient\gamedat
 
 For languages with special characters such as æ, ø, å, or ä **please make sure to save all your files as UTF-8, not ANSI,** or they will break the client!
 
+## Technical details
+
+For technical details and future of the CST format, see Quick Fennec Software's [CST parser](https://github.com/quickfennec/QuickFennec.CST). The project is separate from SimTactics because the CST format is fairly general purpose in it's design, despite originating from The Sims Online.
 ## Disclaimer
 
 - This project is not affiliated with or endorsed by Electronic Arts or Maxis.
